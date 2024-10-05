@@ -1,0 +1,7 @@
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\bin\Debug\ejercicio 2 archivos binarios.exe.config
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\bin\Debug\ejercicio 2 archivos binarios.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\bin\Debug\ejercicio 2 archivos binarios.pdb
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\obj\Debug\ejercicio 2 archivos binarios.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\obj\Debug\ejercicio 2 archivos binarios.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\obj\Debug\ejercicio 2 archivos binarios.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 2 archivos binarios\ejercicio 2 archivos binarios\obj\Debug\ejercicio 2 archivos binarios.pdb
